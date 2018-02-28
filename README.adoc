@@ -1,0 +1,2 @@
+# Learn-JScript
+JavaScript for beginner
