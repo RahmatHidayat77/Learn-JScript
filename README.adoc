@@ -1,2 +1,4 @@
 # Learn-JScript
 JavaScript for beginner
+
+Show the prime number from 0 to 20 using Javascript.
