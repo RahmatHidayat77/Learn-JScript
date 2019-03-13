@@ -2,9 +2,9 @@
 
 for (let i=0; i<=20; i++) {
 if (i % 2 === 0 ) {
-console.log(i+` adalah "Bilangan bukan prima".`);
+console.log(i+` adalah "Bilangan bukan prima !".`);
 } else {
-  console.log(i+` adalah "Bilangan prima".`);
+  console.log(i+` adalah "Bilangan prima !".`);
 }
 }
 
