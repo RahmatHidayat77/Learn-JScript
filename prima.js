@@ -8,6 +8,8 @@ console.log(i+` adalah "Bilangan bukan prima !".`);
 }
 }
 
+console.log("Test Jenkins !!");
+
 
 
 
